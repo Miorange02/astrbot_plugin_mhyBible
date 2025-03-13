@@ -62,7 +62,7 @@ ys_text_list = [
     "被判了诛九族，无语了家人们"
 ]
 
-@register("genshinimpact", "ましろSaber", "一个原神启动插件", "1.1", "repo url")
+@register("astrbot_plugin_mhyBible", "Miorange", "一个原神启动插件", "1.01", "repo url")
 class GenshinImpactPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
